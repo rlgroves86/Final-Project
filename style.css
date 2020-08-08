@@ -24,8 +24,14 @@
 .spaceb {
   line-height: 1.6;
 }
+.kerning {
+  letter-spacing: 1px
+}
 
 
+.spacec {
+  line-height: 1.3;
+}
 
 
 
@@ -136,7 +142,7 @@ img {
     padding: 20px;
     margin: 0;
     background: black;
-    background-image: url("backgroundpic.jpg");
+    background-image: url("pic.jpg");
     background-attachment: fixed;
     background-position: bottom center;
     background-size: cover;
