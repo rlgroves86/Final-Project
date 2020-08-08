@@ -1,0 +1,17 @@
+WORD CLOUD
+
+To get an idea of the values for the companies we were looking at, what better way to do so than a word cloud?
+
+We took the mission statement from the company's website, and used Beautiful Soup to scrape the mission statement to only show the text. Sometimes the actual websites were unable to be scraped, but we could find the same statement in other places, such as "indeed.com". The mission statement was usually in the <p> element, and from there we cleaned it up to only show the sentences. Then, we used matplotlib to create the word cloud, and used a package named "STOPWORDS" to remove the filler words (such as "the", "it", etc). The word clouds shown above were customized to use colors from the company logo.
+
+
+
+PERCEPTION
+
+For many companies, perspective can be very important. Here we will look at how current and previous employees view the company, along with how they are viewed by their statement.
+
+In the first set of charts, you can see the average rating on Glassdoor.com for referrals. We broke this in to two categories: the higher rated companies versus the lower rated companies. 
+
+In the next chart, we show the average rating for each company on a scale from 1 to 5. This information was also provided from Glassdoor.com.
+
+We wanted to dig a little deeper, so we created a chart that shows how a company is perceived by their statement. Using Sentiment Analysis and VADER, we were able to determine whether their statement was generally positive, neutral, or negative. All of the responses came back more positive than negative, however some companies had a more neutral or negative rating than others.

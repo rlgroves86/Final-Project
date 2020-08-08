@@ -1,0 +1,8 @@
+Phoenix Analysis Site 
+https://phoenixanalysis.netlify.app/
+
+Phoenix Analysis Workbook
+https://us-west-2b.online.tableau.com/t/phoenixanalysis/views/PhoenixAnalysis/PhoenixAnalysis?:embed_code_version=3&:embed=y&:loadOrderID=0&:display_spinner=no&:showAppBanner=false&:display_count=n&:showVizHome=n&:origin=viz_share_link
+
+Perception Workbook
+https://us-west-2b.online.tableau.com/t/phoenixanalysis/views/PhoenixAnalysis/Perception/info@starlingdesignz.com/916236f8-992f-4bd1-a57c-88d820cd6e08?:embed=y&:display_spinner=no&:showAppBanner=false&:embed_code_version=3&:loadOrderID=1&:display_count=n&:showVizHome=n&:origin=viz_share_link

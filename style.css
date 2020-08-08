@@ -10,6 +10,25 @@
     margin: 0;
   }
   
+  .center{
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.spacea {
+  line-height: normal;
+}
+
+.spaceb {
+  line-height: 1.6;
+}
+
+
+
+
+
   /* The wrapper contains all of the page's content besides the footer, which is pushed to the bottom of the page */
   .wrapper {
     position: relative;
@@ -117,7 +136,7 @@ img {
     padding: 20px;
     margin: 0;
     background: black;
-    background-image: url("frontimage.gif");
+    background-image: url("backgroundpic.jpg");
     background-attachment: fixed;
     background-position: bottom center;
     background-size: cover;
